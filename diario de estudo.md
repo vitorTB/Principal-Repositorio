@@ -4,3 +4,4 @@
 
 * Dia 10/03/22 - Hoje iniciei novamente meus estudos, irei iniciar HTML.
 * Dia 11/03/22 - Continuação HTML e inicio Css
+* Dia 11/04/22 - Introdução ES6 ( Após um Mês muito ruim)
