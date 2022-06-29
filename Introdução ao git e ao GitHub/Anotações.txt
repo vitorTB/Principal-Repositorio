@@ -1,2 +1,12 @@
 dia 07/02/2022 comecei a aprender Git/GitHub.
 Com intuito de aprender sobre programação na pratica.
+
+
+____________________________________________
+11/04/2022
+Inicia o git com "git init"
+	        - git status - Verificação de arquivos
+	        - git add * (adiciona todas as mudanças)  OU " NOME DO ARQUIVO MUDADO"
+	        - git commit  -m( quando quiser comitar um arquivo)  -am ( já add e comita todos os arquivos).
+	        - git Push para enviar para nuvem arquivos salvos remotamente 
+	
