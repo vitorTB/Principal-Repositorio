@@ -1,6 +1,6 @@
 # Meu repositório.:computer:
 
- Esse repositório serve para eu colocar meus cursos da Dio e me manter atualizado sobre oque já aprendi.
+ Esse repositorio mostra meu caminho para que possa me tornar um bom DEV
 
 ## Links uteis
 
