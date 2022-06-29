@@ -1,0 +1,48 @@
+body {
+background-color: rgb(232, 243, 233));
+background-position: center;
+}
+.botao {
+  background-color: white;
+    color: blue;
+    font-style: italic;
+    text-align: center;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+  margin: 2cm;
+}
+#titulo {
+} 
+.titulo2 {
+    background-color: white;
+    color: blue;
+    font-style: italic;
+    text-align: center;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 2cm; 
+
+}
+.conteiner{ 
+  background-color: black;
+  display:inline-flex;
+  align-items: center;
+
+}
+.image,.imag{
+  border: 5px solid black;
+  border-radius: 100%;
+}
+.secundario{
+  background-color: aqua;
+}
+.cont{
+font-size: large;
+font-style: italic;
+}
+ul{
+  list-style-type: upper-roman;
+  
+}
